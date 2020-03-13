@@ -6,25 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/main.c
-stdio.h
--
-testHelper.h
-C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/testHelper.h
+C:/Users/demu9/Documents/Progetti ASD/Unica-ProgettiASD/ASD.Esercitazione.SelectionSort.01/models.h
+
+C:/Users/demu9/Documents/Progetti ASD/Unica-ProgettiASD/ASD.Esercitazione.SelectionSort.01/selectionSort.c
 time.h
 -
-
-C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/models.h
-
-C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/testHelper.c
-testHelper.h
-C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/testHelper.h
-
-C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/testHelper.h
+selectionSort.h
+C:/Users/demu9/Documents/Progetti ASD/Unica-ProgettiASD/ASD.Esercitazione.SelectionSort.01/selectionSort.h
 models.h
-C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/models.h
-stdlib.h
--
+C:/Users/demu9/Documents/Progetti ASD/Unica-ProgettiASD/ASD.Esercitazione.SelectionSort.01/models.h
 stdio.h
 -
+
+C:/Users/demu9/Documents/Progetti ASD/Unica-ProgettiASD/ASD.Esercitazione.SelectionSort.01/selectionSort.h
+models.h
+C:/Users/demu9/Documents/Progetti ASD/Unica-ProgettiASD/ASD.Esercitazione.SelectionSort.01/models.h
 

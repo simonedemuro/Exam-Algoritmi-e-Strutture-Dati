@@ -3,8 +3,10 @@
 
 CMakeFiles/ASD_Esercitazione_01.dir/main.c.obj: ../main.c
 CMakeFiles/ASD_Esercitazione_01.dir/main.c.obj: ../models.h
+CMakeFiles/ASD_Esercitazione_01.dir/main.c.obj: ../selectionSort.h
 CMakeFiles/ASD_Esercitazione_01.dir/main.c.obj: ../testHelper.h
 
+CMakeFiles/ASD_Esercitazione_01.dir/selectionSort.c.obj: ../models.h
 CMakeFiles/ASD_Esercitazione_01.dir/selectionSort.c.obj: ../selectionSort.c
 CMakeFiles/ASD_Esercitazione_01.dir/selectionSort.c.obj: ../selectionSort.h
 

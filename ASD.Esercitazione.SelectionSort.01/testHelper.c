@@ -20,7 +20,38 @@ int* getGeneratedArrayOfIntegers(inputType type, int size){
             getchar();
             exit(-1);
     }
-    return (void*) -1;
+}
+
+RecipieAndSize getArrayOfRecipesFromUser(){
+    int size;
+    Ricetta* arrayRecipes;
+    printf("Type the number of recipes you want to enter: ");
+    scanf("%d", &size);
+    arrayRecipes = (Ricetta*) malloc(size * sizeof(Ricetta));
+    RecipieAndSize result;
+
+    for (int i = 0; i < size; ++i) {
+        printf("Type the recipes %d/%d", i+1, size);
+        printf("\nName: ");
+        getchar();
+        scanf("%[^\n]", arrayRecipes[i].nome);
+        printf("Time: ");
+        getchar();
+        scanf("%lf", &arrayRecipes[i].tempo);
+        printf("Difficulty: ");
+        scanf("%d", &arrayRecipes[i].difficolta);
+    }
+    result.recipie = arrayRecipes;
+    result.size = size;
+    return result;
+}
+
+/**
+ * Usage: put this function after scanf so that the next one will have a clean stream
+ * in particular the invisible enemies.. the "\n"
+ */
+void freeTheBuffer(){
+    while ( getchar() != '\n' );
 }
 
 /**
@@ -34,7 +65,7 @@ int* _generateRandomArrayOfIntegers(int size){
     int i = 0;
 
     for (i = 0; i < size; ++i) {
-        data[i] = rand();
+        data[i] = rand() % MAX_RAND;
     }
 
     return data;
@@ -96,5 +127,14 @@ void printIntegerArray(int* data, int size){
     int i = 0;
     for (i = 0; i < size; ++i) {
         printf("[%d] --> %d\n", i, data[i]);
+    }
+}
+
+void printRecipesArray(Ricetta* data, int size){
+    int i = 0;
+    for (i = 0; i < size; ++i) {
+        printf("name:       %s\n", data[i].nome);
+        printf("time:       %lf\n",data[i].tempo);
+        printf("difficulty: %d\n\n", data[i].difficolta);
     }
 }

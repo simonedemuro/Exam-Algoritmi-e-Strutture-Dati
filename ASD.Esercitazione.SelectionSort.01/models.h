@@ -15,6 +15,11 @@ typedef struct
     int difficolta;
 } Ricetta;
 
+typedef struct
+{
+    Ricetta* recipie;
+    int size;
+} RecipieAndSize;
 
 
 #endif //ASD_ESERCITAZIONE_01_MODELS_H

@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/main.c" "C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/main.c.obj"
-  "C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/selectionSort.c" "C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/selectionSort.c.obj"
-  "C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/testHelper.c" "C:/Users/SimonD/CLionProjects/ASD.Esercitazione.01/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/testHelper.c.obj"
+  "C:/Users/demu9/Documents/Progetti ASD/Unica-ProgettiASD/ASD.Esercitazione.SelectionSort.01/main.c" "C:/Users/demu9/Documents/Progetti ASD/Unica-ProgettiASD/ASD.Esercitazione.SelectionSort.01/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/main.c.obj"
+  "C:/Users/demu9/Documents/Progetti ASD/Unica-ProgettiASD/ASD.Esercitazione.SelectionSort.01/selectionSort.c" "C:/Users/demu9/Documents/Progetti ASD/Unica-ProgettiASD/ASD.Esercitazione.SelectionSort.01/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/selectionSort.c.obj"
+  "C:/Users/demu9/Documents/Progetti ASD/Unica-ProgettiASD/ASD.Esercitazione.SelectionSort.01/testHelper.c" "C:/Users/demu9/Documents/Progetti ASD/Unica-ProgettiASD/ASD.Esercitazione.SelectionSort.01/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/testHelper.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
