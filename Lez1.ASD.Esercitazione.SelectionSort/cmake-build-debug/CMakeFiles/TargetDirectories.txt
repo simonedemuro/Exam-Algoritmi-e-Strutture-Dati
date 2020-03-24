@@ -1,0 +1,3 @@
+C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.01/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

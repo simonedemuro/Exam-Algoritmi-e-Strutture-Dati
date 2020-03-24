@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ASD_Esercitazione_BinarySearch_01"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ASD_Esercitazione_BinarySearch_01">
+				<Option output="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/ASD_Esercitazione_BinarySearch_01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 ASD_Esercitazione_BinarySearch_01"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ASD_Esercitazione_BinarySearch_01/fast">
+				<Option output="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/ASD_Esercitazione_BinarySearch_01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 ASD_Esercitazione_BinarySearch_01/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/main.c">
+			<Option target="ASD_Esercitazione_BinarySearch_01"/>
+		</Unit>
+		<Unit filename="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.c">
+			<Option target="ASD_Esercitazione_BinarySearch_01"/>
+		</Unit>
+		<Unit filename="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.h">
+			<Option target="ASD_Esercitazione_BinarySearch_01"/>
+		</Unit>
+		<Unit filename="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/selectionSort.c">
+			<Option target="ASD_Esercitazione_BinarySearch_01"/>
+		</Unit>
+		<Unit filename="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/selectionSort.h">
+			<Option target="ASD_Esercitazione_BinarySearch_01"/>
+		</Unit>
+		<Unit filename="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/testDataGeneration.c">
+			<Option target="ASD_Esercitazione_BinarySearch_01"/>
+		</Unit>
+		<Unit filename="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/testDataGeneration.h">
+			<Option target="ASD_Esercitazione_BinarySearch_01"/>
+		</Unit>
+		<Unit filename="C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
