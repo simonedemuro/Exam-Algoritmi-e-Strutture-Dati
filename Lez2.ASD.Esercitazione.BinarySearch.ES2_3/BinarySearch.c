@@ -13,7 +13,7 @@ int binaryIterativeSearch(Hotel* arrayData, char* hotelName, int arraySize){
 
     while (firstIdx <= lastIdx){
         halfIdx = (firstIdx + lastIdx)/2;
-        if(strcmp(hotelName, arrayData[halfIdx].nome) > 1)
+        if(strcmp(hotelName, arrayData[halfIdx].nome) < 0)
             lastIdx = halfIdx - 1;
         else if ( strcmp(hotelName,arrayData[halfIdx].nome) == 0)
             return halfIdx;

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/main.c
+stdio.h
+-
+stdlib.h
+-
+sparseMatrix.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/sparseMatrix.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/models.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/sparseMatrix.h
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/models.h
+
