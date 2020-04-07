@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.c
+searchKMP.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.h
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+
