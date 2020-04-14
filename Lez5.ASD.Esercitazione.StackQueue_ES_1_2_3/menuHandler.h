@@ -16,6 +16,8 @@ void printOrder(Ordine order);
 void printStack(Stack* s);
 void printQueue(Queue* q);
 
+void nonDestructivePrintList(Node* firstNode);
+
 #define LEZ5_ASD_ESERCITAZIONE_STACKQUEUE_ES_1_2_3_MENUHANDLER_H
 
 #endif //LEZ5_ASD_ESERCITAZIONE_STACKQUEUE_ES_1_2_3_MENUHANDLER_H

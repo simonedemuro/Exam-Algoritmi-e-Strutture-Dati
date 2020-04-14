@@ -52,10 +52,12 @@ void processUserAction(Queue* orderQueue, Stack* orderStack){
             pushStack(orderStack, tmpOrder);
             break;
         case PRINT_QUEUE:
-            printQueue(orderQueue);
+            //printQueue(orderQueue);
+            nonDestructivePrintList(orderQueue->front);
             break;
         case PRINT_STACK:
-            printStack(orderStack);
+            //printStack(orderStack);
+            nonDestructivePrintList(orderStack->top);
             break;
         case EXIT:
             exit(0); // success exit
@@ -131,5 +133,12 @@ void printQueue(Queue* q){
     while (!isEmptyQueue(q)){
         tmpOrder = popQueue(q);
         printOrder(tmpOrder);
+    }
+}
+
+void nonDestructivePrintList(Node* firstNode){
+    Node* n;
+    for (n = firstNode; n != NULL ; n = n->link) {
+        printOrder(n->data);
     }
 }
