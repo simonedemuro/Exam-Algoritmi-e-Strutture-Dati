@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.SelectionSort"
+CMAKE_SOURCE_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.SelectionSort\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.SelectionSort\cmake-build-debug\CMakeFiles" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.SelectionSort\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug\CMakeFiles" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.SelectionSort\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -110,17 +110,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named ASD_Esercitazione_01
+# Target rules for targets named Lez6_ASD_Esercitazione_LinkedList_ES_Netflix
 
 # Build rule for target.
-ASD_Esercitazione_01: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 ASD_Esercitazione_01
-.PHONY : ASD_Esercitazione_01
+Lez6_ASD_Esercitazione_LinkedList_ES_Netflix: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Lez6_ASD_Esercitazione_LinkedList_ES_Netflix
+.PHONY : Lez6_ASD_Esercitazione_LinkedList_ES_Netflix
 
 # fast build rule for target.
-ASD_Esercitazione_01/fast:
-	$(MAKE) -f CMakeFiles\ASD_Esercitazione_01.dir\build.make CMakeFiles/ASD_Esercitazione_01.dir/build
-.PHONY : ASD_Esercitazione_01/fast
+Lez6_ASD_Esercitazione_LinkedList_ES_Netflix/fast:
+	$(MAKE) -f CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\build.make CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/build
+.PHONY : Lez6_ASD_Esercitazione_LinkedList_ES_Netflix/fast
+
+catalogueHandler.obj: catalogueHandler.c.obj
+
+.PHONY : catalogueHandler.obj
+
+# target to build an object file
+catalogueHandler.c.obj:
+	$(MAKE) -f CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\build.make CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.obj
+.PHONY : catalogueHandler.c.obj
+
+catalogueHandler.i: catalogueHandler.c.i
+
+.PHONY : catalogueHandler.i
+
+# target to preprocess a source file
+catalogueHandler.c.i:
+	$(MAKE) -f CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\build.make CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.i
+.PHONY : catalogueHandler.c.i
+
+catalogueHandler.s: catalogueHandler.c.s
+
+.PHONY : catalogueHandler.s
+
+# target to generate assembly for a file
+catalogueHandler.c.s:
+	$(MAKE) -f CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\build.make CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.s
+.PHONY : catalogueHandler.c.s
 
 main.obj: main.c.obj
 
@@ -128,7 +155,7 @@ main.obj: main.c.obj
 
 # target to build an object file
 main.c.obj:
-	$(MAKE) -f CMakeFiles\ASD_Esercitazione_01.dir\build.make CMakeFiles/ASD_Esercitazione_01.dir/main.c.obj
+	$(MAKE) -f CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\build.make CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.obj
 .PHONY : main.c.obj
 
 main.i: main.c.i
@@ -137,7 +164,7 @@ main.i: main.c.i
 
 # target to preprocess a source file
 main.c.i:
-	$(MAKE) -f CMakeFiles\ASD_Esercitazione_01.dir\build.make CMakeFiles/ASD_Esercitazione_01.dir/main.c.i
+	$(MAKE) -f CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\build.make CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.i
 .PHONY : main.c.i
 
 main.s: main.c.s
@@ -146,62 +173,8 @@ main.s: main.c.s
 
 # target to generate assembly for a file
 main.c.s:
-	$(MAKE) -f CMakeFiles\ASD_Esercitazione_01.dir\build.make CMakeFiles/ASD_Esercitazione_01.dir/main.c.s
+	$(MAKE) -f CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\build.make CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.s
 .PHONY : main.c.s
-
-selectionSort.obj: selectionSort.c.obj
-
-.PHONY : selectionSort.obj
-
-# target to build an object file
-selectionSort.c.obj:
-	$(MAKE) -f CMakeFiles\ASD_Esercitazione_01.dir\build.make CMakeFiles/ASD_Esercitazione_01.dir/selectionSort.c.obj
-.PHONY : selectionSort.c.obj
-
-selectionSort.i: selectionSort.c.i
-
-.PHONY : selectionSort.i
-
-# target to preprocess a source file
-selectionSort.c.i:
-	$(MAKE) -f CMakeFiles\ASD_Esercitazione_01.dir\build.make CMakeFiles/ASD_Esercitazione_01.dir/selectionSort.c.i
-.PHONY : selectionSort.c.i
-
-selectionSort.s: selectionSort.c.s
-
-.PHONY : selectionSort.s
-
-# target to generate assembly for a file
-selectionSort.c.s:
-	$(MAKE) -f CMakeFiles\ASD_Esercitazione_01.dir\build.make CMakeFiles/ASD_Esercitazione_01.dir/selectionSort.c.s
-.PHONY : selectionSort.c.s
-
-testHelper.obj: testHelper.c.obj
-
-.PHONY : testHelper.obj
-
-# target to build an object file
-testHelper.c.obj:
-	$(MAKE) -f CMakeFiles\ASD_Esercitazione_01.dir\build.make CMakeFiles/ASD_Esercitazione_01.dir/testHelper.c.obj
-.PHONY : testHelper.c.obj
-
-testHelper.i: testHelper.c.i
-
-.PHONY : testHelper.i
-
-# target to preprocess a source file
-testHelper.c.i:
-	$(MAKE) -f CMakeFiles\ASD_Esercitazione_01.dir\build.make CMakeFiles/ASD_Esercitazione_01.dir/testHelper.c.i
-.PHONY : testHelper.c.i
-
-testHelper.s: testHelper.c.s
-
-.PHONY : testHelper.s
-
-# target to generate assembly for a file
-testHelper.c.s:
-	$(MAKE) -f CMakeFiles\ASD_Esercitazione_01.dir\build.make CMakeFiles/ASD_Esercitazione_01.dir/testHelper.c.s
-.PHONY : testHelper.c.s
 
 # Help Target
 help:
@@ -209,18 +182,15 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
-	@echo ... ASD_Esercitazione_01
+	@echo ... Lez6_ASD_Esercitazione_LinkedList_ES_Netflix
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... catalogueHandler.obj
+	@echo ... catalogueHandler.i
+	@echo ... catalogueHandler.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... selectionSort.obj
-	@echo ... selectionSort.i
-	@echo ... selectionSort.s
-	@echo ... testHelper.obj
-	@echo ... testHelper.i
-	@echo ... testHelper.s
 .PHONY : help
 
 

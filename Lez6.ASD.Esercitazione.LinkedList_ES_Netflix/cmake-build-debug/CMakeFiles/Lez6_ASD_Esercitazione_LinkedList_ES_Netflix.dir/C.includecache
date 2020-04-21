@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+catalogueHandler.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.h
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/models.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/models.h
+
