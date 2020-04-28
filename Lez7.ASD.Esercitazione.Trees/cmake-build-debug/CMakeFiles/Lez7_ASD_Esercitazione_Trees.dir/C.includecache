@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez7.ASD.Esercitazione.Trees/firstAidHandler.c
+firstAidHandler.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez7.ASD.Esercitazione.Trees/firstAidHandler.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez7.ASD.Esercitazione.Trees/firstAidHandler.h
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez7.ASD.Esercitazione.Trees/models.h
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lez7.ASD.Esercitazione.Trees/models.h
+
