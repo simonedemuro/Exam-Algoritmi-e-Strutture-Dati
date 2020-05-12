@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 8 (B-Tree)/Lez8.ASD.Esercitazione.Trees/bTreeHandler.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+bTreeHandler.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 8 (B-Tree)/Lez8.ASD.Esercitazione.Trees/bTreeHandler.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 8 (B-Tree)/Lez8.ASD.Esercitazione.Trees/bTreeHandler.h
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 8 (B-Tree)/Lez8.ASD.Esercitazione.Trees/models.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 8 (B-Tree)/Lez8.ASD.Esercitazione.Trees/models.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 9 (Graph)/Lez9.ASD.Esercitazione.Graph/models.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 9 (Graph)/Lez9.ASD.Esercitazione.Graph/structuresImplementation.c
+structuresImplementation.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 9 (Graph)/Lez9.ASD.Esercitazione.Graph/structuresImplementation.h
+string.h
+-
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 9 (Graph)/Lez9.ASD.Esercitazione.Graph/structuresImplementation.h
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 9 (Graph)/Lez9.ASD.Esercitazione.Graph/models.h
+

@@ -1,0 +1,3 @@
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 8 (B-Tree)/Lez8.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez8_ASD_Esercitazione_Trees.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 8 (B-Tree)/Lez8.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 8 (B-Tree)/Lez8.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/rebuild_cache.dir

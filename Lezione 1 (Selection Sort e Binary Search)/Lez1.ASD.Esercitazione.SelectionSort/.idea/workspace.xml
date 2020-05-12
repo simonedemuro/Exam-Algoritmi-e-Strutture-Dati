@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ASD_Esercitazione_01" targetName="ASD_Esercitazione_01" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="beda6391-a343-4847-8321-ae312ed5e25c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ASD.Esercitazione.SelectionSort.01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ASD.Esercitazione.SelectionSort.01/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ASD.Esercitazione.SelectionSort.02/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ASD.Esercitazione.SelectionSort.02/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ASD.Esercitazione.SelectionSort.02/cmake-build-release/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/.idea/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/searchKMP.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/.idea/ASD.Esercitazione.BinarySearch.01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/ASD_Esercitazione_BinarySearch_01.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/ASD_Esercitazione_BinarySearch_01.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/searchAlgorithms.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/selectionSort.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/testDataGeneration.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/selectionSort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/selectionSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/testDataGeneration.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.BinarySearch/testDataGeneration.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/.idea/ASD.Esercitazione.01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/ASD_Esercitazione_01.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/ASD_Esercitazione_01.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/ASD_Esercitazione_01.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/models.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/selectionSort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/selectionSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/testHelper.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez1.ASD.Esercitazione.SelectionSort/testHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/.idea/Lez2.ASD.Esercitazione.BinarySearch.ES2_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/BinarySearch.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/BinarySearch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/BinarySearch.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.BinarySearch.ES2_3/models.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/.idea/ASD.Esercitazione.SelectionSort.02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/ASD_Esercitazione_SelectionSort_02.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/ASD_Esercitazione_SelectionSort_02.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/selectionSort.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/testHelper.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/ASD_Esercitazione_SelectionSort_02.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/ASD_Esercitazione_SelectionSort_02.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/selectionSort.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/testHelper.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/models.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/selectionSort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/selectionSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/testHelper.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_1/testHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/.idea/ASD.Esercitazione.SelectionSort.02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/ASD_Esercitazione_SelectionSort_02.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/ASD_Esercitazione_SelectionSort_02.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/selectionSort.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/testHelper.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/ASD_Esercitazione_SelectionSort_02.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/ASD_Esercitazione_SelectionSort_02.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/selectionSort.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/testHelper.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-release/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/models.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/selectionSort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/selectionSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/testHelper.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez2.ASD.Esercitazione.SelectionSort.ES2_2/testHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/.idea/Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/binarySearch.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/binarySearch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/binarySearch.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/sparseMatrix.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/models.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/sparseMatrix.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4/sparseMatrix.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/.idea/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/menuHandler.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.dir/structuresImplementation.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/Lez5_ASD_Esercitazione_StackQueue_ES_1_2_3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/menuHandler.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/menuHandler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/models.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/structuresImplementation.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/structuresImplementation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/.idea/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/models.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/.idea/Lez7.ASD.Esercitazione.Trees.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/firstAidHandler.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/Lez7_ASD_Esercitazione_Trees.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/Lez7_ASD_Esercitazione_Trees.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/firstAidHandler.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/firstAidHandler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lez7.ASD.Esercitazione.Trees/models.h" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1YccvOQGc0FcslLihZPchCGb5Nt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ASD_Esercitazione_01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ASD_Esercitazione_01" TARGET_NAME="ASD_Esercitazione_01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ASD_Esercitazione_01" RUN_TARGET_NAME="ASD_Esercitazione_01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beda6391-a343-4847-8321-ae312ed5e25c" name="Default Changelist" comment="" />
+      <created>1583245552060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583245552060</updated>
+      <workItem from="1583245553614" duration="47000" />
+      <workItem from="1583245601942" duration="5578000" />
+      <workItem from="1583489514610" duration="93000" />
+      <workItem from="1583493577659" duration="417000" />
+      <workItem from="1583494349618" duration="11345000" />
+      <workItem from="1584118777470" duration="1801000" />
+      <workItem from="1584123054823" duration="56000" />
+      <workItem from="1587026022362" duration="76000" />
+      <workItem from="1587461926577" duration="389000" />
+      <workItem from="1588934268999" duration="64000" />
+      <workItem from="1588934381374" duration="765000" />
+      <workItem from="1588959122808" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="data[j]" />
+        <watch expression="data[minIdx]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

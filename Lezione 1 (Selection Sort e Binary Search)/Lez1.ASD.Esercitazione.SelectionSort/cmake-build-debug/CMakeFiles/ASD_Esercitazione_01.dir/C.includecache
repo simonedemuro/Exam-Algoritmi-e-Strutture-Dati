@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/main.c
+stdio.h
+-
+testHelper.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/testHelper.h
+selectionSort.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/selectionSort.h
+time.h
+-
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/models.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/selectionSort.c
+time.h
+-
+selectionSort.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/selectionSort.h
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/models.h
+stdio.h
+-
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/selectionSort.h
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/models.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/testHelper.c
+testHelper.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/testHelper.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/testHelper.h
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.SelectionSort/models.h
+stdlib.h
+-
+stdio.h
+-
+
