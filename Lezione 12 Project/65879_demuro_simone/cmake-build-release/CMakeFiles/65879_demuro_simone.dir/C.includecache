@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/Models/models.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/SortEngine/selectionSortIter.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/TestGenerator/dataGenerator.h
+stdio.h
+-
+stdlib.h
+-
+../Models/models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/Models/models.h
+stdbool.h
+-
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/TestGenerator/testHelper.c
+testHelper.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/TestGenerator/testHelper.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/TestGenerator/testHelper.h
+stdio.h
+-
+time.h
+-
+../Models/models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/Models/models.h
+../SortEngine/selectionSortIter.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/SortEngine/selectionSortIter.h
+../TestGenerator/dataGenerator.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/TestGenerator/dataGenerator.h
+

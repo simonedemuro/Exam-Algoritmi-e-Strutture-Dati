@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 10 (HashTables)/Lez910ASD.Esercitazione.HashTables/hashTableImplementation.c
+hashTableImplementation.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 10 (HashTables)/Lez910ASD.Esercitazione.HashTables/hashTableImplementation.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 10 (HashTables)/Lez910ASD.Esercitazione.HashTables/hashTableImplementation.h
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 10 (HashTables)/Lez910ASD.Esercitazione.HashTables/models.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 10 (HashTables)/Lez910ASD.Esercitazione.HashTables/models.h
+

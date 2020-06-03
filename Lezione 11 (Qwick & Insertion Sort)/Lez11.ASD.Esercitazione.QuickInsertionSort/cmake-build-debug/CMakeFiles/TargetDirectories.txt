@@ -1,0 +1,3 @@
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 11 (Qwick & Insertion Sort)/Lez11.ASD.Esercitazione.QuickInsertionSort/cmake-build-debug/CMakeFiles/Lez11_ASD_Esercitazione_QuickInsertionSort.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 11 (Qwick & Insertion Sort)/Lez11.ASD.Esercitazione.QuickInsertionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 11 (Qwick & Insertion Sort)/Lez11.ASD.Esercitazione.QuickInsertionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

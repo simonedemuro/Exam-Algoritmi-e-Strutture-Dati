@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\65879_demuro_simone.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\65879_demuro_simone.dir/objects.a @CMakeFiles\65879_demuro_simone.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -O3 -DNDEBUG   -Wl,--whole-archive CMakeFiles\65879_demuro_simone.dir/objects.a -Wl,--no-whole-archive  -o 65879_demuro_simone.exe -Wl,--out-implib,lib65879_demuro_simone.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\65879_demuro_simone.dir\linklibs.rsp

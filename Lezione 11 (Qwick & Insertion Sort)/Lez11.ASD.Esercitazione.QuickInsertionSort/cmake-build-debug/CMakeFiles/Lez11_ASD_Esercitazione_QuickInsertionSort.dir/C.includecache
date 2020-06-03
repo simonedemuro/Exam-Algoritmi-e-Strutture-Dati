@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 11 (Qwick & Insertion Sort)/Lez11.ASD.Esercitazione.QuickInsertionSort/insertionSort.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 11 (Qwick & Insertion Sort)/Lez11.ASD.Esercitazione.QuickInsertionSort/main.c
+stdio.h
+-
+testHelper.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 11 (Qwick & Insertion Sort)/Lez11.ASD.Esercitazione.QuickInsertionSort/testHelper.h
+insertionSort.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 11 (Qwick & Insertion Sort)/Lez11.ASD.Esercitazione.QuickInsertionSort/insertionSort.h
+quickSort.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 11 (Qwick & Insertion Sort)/Lez11.ASD.Esercitazione.QuickInsertionSort/quickSort.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 11 (Qwick & Insertion Sort)/Lez11.ASD.Esercitazione.QuickInsertionSort/quickSort.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 11 (Qwick & Insertion Sort)/Lez11.ASD.Esercitazione.QuickInsertionSort/testHelper.h
+stdio.h
+-
+stdlib.h
+-
+
