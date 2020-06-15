@@ -138,3 +138,27 @@ void printRecipesArray(Ricetta* data, int size){
         printf("difficulty: %d\n\n", data[i].difficolta);
     }
 }
+
+/**
+ *  ask for a numeric input and prompt again in case of invalid input
+ * @param maxOptionAvailable (0 to maxOption) represents the Maximum included enumeration number selectable by the user
+ * @return returns a valid enumeration from the user input (between 0 and maxOptionAvailable)
+ */
+int getNumericAnswerFromUser(int maxOptionAvailable){
+    int userAnswer = -1;
+    _Bool invalidInputEntered;
+
+    // Asks for an option until it gets entered correctly
+    do {
+        scanf("%d", &userAnswer);
+        freeTheBuffer();
+
+        // checks if the value is between 1 and the maximum option available for this command
+        invalidInputEntered = userAnswer < 0 || userAnswer > maxOptionAvailable;
+        if(invalidInputEntered){
+            printf("please enter a valid input\n");
+        }
+    } while(invalidInputEntered);
+    //than returns a certainly valid input
+    return userAnswer;
+}

@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.02/main.c
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_1/main.c
 stdio.h
 -
 models.h
-C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.02/models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_1/models.h
 selectionSort.h
-C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.02/selectionSort.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_1/selectionSort.h
 testHelper.h
-C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.02/testHelper.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_1/testHelper.h
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.02/models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_1/models.h
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.02/selectionSort.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_1/selectionSort.h
 time.h
 -
 stdio.h
@@ -26,13 +26,13 @@ stdio.h
 stdlib.h
 -
 models.h
-C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.02/models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_1/models.h
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.02/testHelper.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_1/testHelper.h
 stdio.h
 -
 models.h
-C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.02/models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_1/models.h
 stdlib.h
 -
 stdio.h

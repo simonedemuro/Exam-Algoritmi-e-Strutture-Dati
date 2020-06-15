@@ -21,5 +21,6 @@ RecipieAndSize getArrayOfRecipesFromUser();
 void printIntegerArray(int*, int);
 void printRecipesArray(Ricetta*, int);
 void freeTheBuffer();
+int getNumericAnswerFromUser(int maxOptionAvailable);
 
 #endif //ASD_ESERCITAZIONE_01_TESTHELPER_Hs

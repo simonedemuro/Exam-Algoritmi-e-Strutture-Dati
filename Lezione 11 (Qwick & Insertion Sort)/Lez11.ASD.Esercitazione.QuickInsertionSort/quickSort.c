@@ -62,7 +62,7 @@ void insertionSortMod(int *data, int from, int to) {
 
 void quickInsertionSort(int data[], int fromIdx, int toIdx, int swithcAlgoritmThreshold) {
     int q = 0;
-    if (fromIdx == toIdx) { return; }
+    //if (fromIdx == toIdx) { return; }
 
     // If I get beyond the threshold, continue sorting by Insertion Sort
     if (swithcAlgoritmThreshold >= toIdx - fromIdx ){

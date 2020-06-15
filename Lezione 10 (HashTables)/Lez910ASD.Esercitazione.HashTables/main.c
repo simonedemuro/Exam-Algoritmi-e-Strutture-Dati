@@ -5,7 +5,7 @@
 #include "hashTableImplementation.h"
 
 void Menu(){
-    printf("\nPlease type an option: ");
+    printf("\n\nPlease type an option: ");
     printf("\n0 - Insert a car");
     printf("\n1 - Print a floor");
     printf("\n2 - Print the park (all floor)");
@@ -36,40 +36,40 @@ int main()
             scanf("%d", &scelta);
 
             switch (scelta){
-                case 0:
+                case CAR_INSERT:
                     getchar();
                     inserisci_auto(parcheggio,acquisisci_auto());
                     break;
-                case 1:
-                    printf("\n inserire il piano da visitare --> ");
+                case PRINT_FLOOR:
+                    printf("\n type the floor number to visit --> ");
                     scanf("%d",&piano);
                     stampa_piano(parcheggio,piano);
                     break;
-                case 2:
+                case PRINT_PARK:
                     stampa_parcheggio(parcheggio);
                     break;
-                case 3:
+                case CAR_SEARCH:
                     getchar();
-                    printf("\n inserire la targa del' auto da ricercare ");
+                    printf("\n type the car to search for");
                     scanf("%[^\n]s",targa);
                     getchar();
                     trovato=ricerca_auto(parcheggio,targa);
                     if (trovato!=NULL){
-                        printf("\n auto trovata al piano %d",hash_function(trovato->info.targa));
+                        printf("\n car found at floor: %d",hash_function(trovato->info.targa));
                     } else
-                        printf("\n l'auto che sta cercando non e prresente nel gestionale");
+                        printf("\n the car is not parked here");
                     break;
-                case 4:
-                    printf("\n inserire la targa dell auto che si vuole eliminare");
+                case CAR_REMOVE:
+                    printf("\n type the car to be deleted's plate number");
                     scanf("%[^\n]s",targa);
                     getchar();
                     elimina_auto(parcheggio,targa);
                     break;
-                case 5:
+                case LOAD_DATA:
                     carica_auto_test(parcheggio);
                     break;
-                case 6:
-                    printf("\n grazie per per aver usato il gestionale !");
+                case EXIT:
+                    printf("\n EXIT !");
                     break;
             }
 

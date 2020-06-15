@@ -10,7 +10,7 @@ void insertionSort(int lista[], int dim, int* nCompare, int* nSwap) {
     int prossimo = 0;
     for (i = 1; i < dim; i++) {
         prossimo = lista[i];
-        for (j = i - 1; j > 0; j--) {
+        for (j = i - 1; j >= 0; j--) {
             (*nCompare)++;
             if (prossimo < lista[j]) {
                 (*nSwap)++;

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.02
+# Install script for directory: C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/SimonD/CLionProjects/Progetti ASD/ASD.Esercitazione.SelectionSort.02/cmake-build-release/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_1/cmake-build-release/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4"
+CMAKE_SOURCE_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/depend.make
@@ -58,42 +58,42 @@ include CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/flags.make
 
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/main.c.obj: CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/flags.make
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/main.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\main.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/main.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\main.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\main.c"
 
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/main.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\main.c" > CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\main.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\main.c" > CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\main.c.i
 
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/main.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\main.c" -o CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\main.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\main.c" -o CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\main.c.s
 
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/binarySearch.c.obj: CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/flags.make
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/binarySearch.c.obj: ../binarySearch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/binarySearch.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\binarySearch.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\binarySearch.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/binarySearch.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\binarySearch.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\binarySearch.c"
 
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/binarySearch.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/binarySearch.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\binarySearch.c" > CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\binarySearch.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\binarySearch.c" > CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\binarySearch.c.i
 
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/binarySearch.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/binarySearch.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\binarySearch.c" -o CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\binarySearch.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\binarySearch.c" -o CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\binarySearch.c.s
 
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/sparseMatrix.c.obj: CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/flags.make
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/sparseMatrix.c.obj: ../sparseMatrix.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/sparseMatrix.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\sparseMatrix.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\sparseMatrix.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/sparseMatrix.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\sparseMatrix.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\sparseMatrix.c"
 
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/sparseMatrix.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/sparseMatrix.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\sparseMatrix.c" > CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\sparseMatrix.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\sparseMatrix.c" > CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\sparseMatrix.c.i
 
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/sparseMatrix.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/sparseMatrix.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\sparseMatrix.c" -o CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\sparseMatrix.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\sparseMatrix.c" -o CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\sparseMatrix.c.s
 
 # Object files for target Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4
 Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4_OBJECTS = \
@@ -111,7 +111,7 @@ Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.exe: CMakeFiles/Lez3_ASD_Esercitaz
 Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.exe: CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/linklibs.rsp
 Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.exe: CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/objects1.rsp
 Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.exe: CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -124,6 +124,6 @@ CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/clean:
 .PHONY : CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/clean
 
 CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug\CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 3 (Matrici Sparse)\Lez3.ASD.Esercitazione.SparseMatrix.ES1_2_3_4\cmake-build-debug\CMakeFiles\Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Lez3_ASD_Esercitazione_SparseMatrix_ES1_2_3_4.dir/depend
 

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.c
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.c
 stdio.h
 -
 stdlib.h
@@ -16,11 +16,23 @@ stdbool.h
 string.h
 -
 catalogueHandler.h
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.h
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.h
 models.h
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/models.h
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/models.h
+catalogueHandler.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/models.h
 

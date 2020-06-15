@@ -16,7 +16,7 @@ int main()
 
     printf("Welcome to First Aid handler type:\n"
            "a -> to add a patient\n"
-           "d -> process a patient (delete from tree)"
+           "d -> process a patient (delete from tree)\n"
            "p -> to print the patients\n"
            "e -> to exit\n");
 

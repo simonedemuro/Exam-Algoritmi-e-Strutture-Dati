@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.SelectionSort.ES2_2/main.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/main.c.obj"
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.SelectionSort.ES2_2/selectionSort.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/selectionSort.c.obj"
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.SelectionSort.ES2_2/testHelper.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/testHelper.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_2/main.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/main.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_2/selectionSort.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/selectionSort.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_2/testHelper.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.SelectionSort.ES2_2/cmake-build-debug/CMakeFiles/ASD_Esercitazione_SelectionSort_02.dir/testHelper.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

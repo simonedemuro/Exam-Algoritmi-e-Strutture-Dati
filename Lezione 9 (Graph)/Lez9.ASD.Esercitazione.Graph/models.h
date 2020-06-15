@@ -10,6 +10,8 @@
 #define NUM_NODI_TEST 11
 
 
+typedef enum {LOAD_TEST_DATA, DFS_VISIT, BFS_VISIT, CONNECTED_COMPONENTS, DELETE_ARCH}inputType;
+
 typedef struct node
 {
     int vertex_id;

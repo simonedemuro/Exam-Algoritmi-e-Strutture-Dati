@@ -6,6 +6,25 @@
 
 void freeTheBuffer();
 
+FILE* fp = NULL;
+void openFile(){
+    fp = fopen("tests.txt","w");
+}
+
+void printOnFile(double time, int swap, int comparison){
+    if (fp != NULL) {
+        fprintf(fp, "%d\t%d\t%lf\t", comparison, swap, time);
+    }
+}
+
+void nextLineOnFile(){
+    fprintf(fp, "\n");
+}
+
+void closeFile(){
+    fclose(fp);
+}
+
 report sortBenchmark(void (*sortAlgorithm)(int*,int,int*,int*), int* data, int size){
     // Init performance measure
     clock_t start, stop;
@@ -20,8 +39,8 @@ report sortBenchmark(void (*sortAlgorithm)(int*,int,int*,int*), int* data, int s
     // stop sort and print milliseconds
     stop = clock();
     elapsedSeconds = ((double) (stop - start)) / CLOCKS_PER_SEC;
-    printf("Sorted [%d] items in: [%lf] sec\n"
-           "n comparison: %d and n swap: %d\n",size, elapsedSeconds, nCompare, nSwap);
+
+    printOnFile(elapsedSeconds, nSwap, nCompare);
 }
 
 const char* getAlgorithmNameByIndex(int algorithmIndex){

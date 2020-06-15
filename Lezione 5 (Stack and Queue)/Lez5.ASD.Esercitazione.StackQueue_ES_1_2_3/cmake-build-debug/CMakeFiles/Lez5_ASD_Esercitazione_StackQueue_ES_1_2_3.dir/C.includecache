@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/models.h
+structuresImplementation.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/structuresImplementation.h
+menuHandler.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/menuHandler.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/menuHandler.c
+menuHandler.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/menuHandler.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/menuHandler.h
+stdio.h
+-
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/models.h
+structuresImplementation.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/structuresImplementation.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/models.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/structuresImplementation.c
+structuresImplementation.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/structuresImplementation.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/structuresImplementation.h
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 5 (Stack and Queue)/Lez5.ASD.Esercitazione.StackQueue_ES_1_2_3/models.h
+

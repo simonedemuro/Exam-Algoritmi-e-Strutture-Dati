@@ -1,3 +1,3 @@
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

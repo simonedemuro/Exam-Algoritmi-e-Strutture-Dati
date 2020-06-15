@@ -1,3 +1,3 @@
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

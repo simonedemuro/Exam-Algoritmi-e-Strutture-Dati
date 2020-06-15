@@ -198,3 +198,87 @@ void playlistScroll(PlayList* pl){
         }
     }
 }
+
+int getNumericAnswerFromUser(int maxOptionAvailable){
+    int userAnswer = -1;
+    _Bool invalidInputEntered;
+
+    // Asks for an option until it gets entered correctly
+    do {
+        scanf("%d", &userAnswer);
+        getchar();
+
+        // checks if the value is between 1 and the maximum option available for this command
+        invalidInputEntered = userAnswer < 0 || userAnswer > maxOptionAvailable;
+        if(invalidInputEntered){
+            printf("please enter a valid input\n");
+        }
+    } while(invalidInputEntered);
+    //than returns a certainly valid input
+    return userAnswer;
+}
+
+/**
+ *  merges playlistA and playlistB into playlistResult
+ */
+void  mergePlayList(PlayList* playlistA, PlayList* playlistB, PlayList* playlistResult){
+    TVS *tmpA_prev, *tmpA_next ;
+    TVS* tmpB_tvs, *tmpB_nexttvs;
+    _Bool inizio=1;
+
+    if (playlistA->top == NULL){
+        playlistResult->top=playlistB->top;
+    }
+    else if (playlistB->top == NULL){
+        playlistResult->top=playlistA->top;
+    }
+    else {
+        // search for the position to insert
+        tmpA_prev = NULL;
+        tmpA_next = playlistA->top;
+        tmpB_tvs=playlistB->top;
+        tmpB_nexttvs=tmpB_tvs->next;
+
+        // iterating over playlistB
+        while(tmpB_tvs != NULL && tmpA_next != NULL) {
+            printf("\nin lavorazione\n");
+            printTVSeries(tmpB_tvs);
+            printf("-------\n");
+
+            // put B nodes inside A
+            while (tmpA_next != NULL && strcmp(tmpA_next->title, tmpB_tvs->title) <= 0) {
+                tmpA_prev = tmpA_next;
+                tmpA_next = tmpA_next->next;
+            }
+
+            // here we have the node after wich join the next (tmpB)
+            if (tmpA_next == NULL) {
+                tmpA_prev->next = tmpB_tvs;
+                tmpB_tvs->prev = tmpA_prev;
+            } else if (tmpA_next == playlistA->top && inizio) {
+                playlistA->top = tmpB_tvs;
+                tmpB_tvs->prev = NULL;
+                playlistA->top->next = tmpA_next;
+                tmpA_next->prev = playlistA->top;
+                inizio=0;
+            } else {
+                tmpA_prev->next = tmpB_tvs;
+                tmpB_tvs->prev = tmpA_prev;
+                tmpB_tvs->next = tmpA_next;
+                tmpA_next->prev = tmpB_tvs;
+            }
+            tmpA_prev=tmpB_tvs;
+            tmpB_tvs=tmpB_nexttvs;
+
+            // handling last element of the collection
+            if (tmpB_nexttvs != NULL) {
+                tmpB_nexttvs = tmpB_tvs->next;
+            }
+            printPlayList(playlistA);
+            fflush(NULL);
+        }
+    }
+    playlistResult->top=playlistA->top;
+    playlistA->top=NULL;
+    playlistB->top=NULL;
+}

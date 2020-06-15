@@ -11,7 +11,7 @@
 
 #define N_SORT_ALGORITHM 5
 #define N_SIZES_TO_BE_TESTED 7
-#define N_TYPE_OF_INPUT 3
+#define N_TYPE_OF_INPUT 4
 
 void runBenchmark();
 void manualTestRoutine();
@@ -49,28 +49,32 @@ void runBenchmark(){
     void (*sortingAlgorithms[N_SORT_ALGORITHM])(int*,int,int*,int*) = {
             selectionSort,
             insertionSort,
-            quickSortPublic,
+            mergeSortP,
             heapsort,
-            mergeSortP
+            quickSortPublic
     };
 
+
+    openFile();
     // FOR EACH type of input {ORDINATO, QUASI_ORDINATO, INV_ORDINATO, CASUALE}
     for (inputType inputType = 0; inputType < N_TYPE_OF_INPUT; ++inputType) {
-        printf("\n\n");
         // FOR EACH Sort Algorithm perform 	{1000, 2000, 5000, 10000, 20000, 50000} elements test
         for (int algorithmN = 0; algorithmN < N_SORT_ALGORITHM; ++algorithmN) {
             // FOR EACH size to be tested..
+            nextLineOnFile();
             for (int inputSize = 0; inputSize < N_SIZES_TO_BE_TESTED; ++inputSize) {
-                if(algorithmN == 2 && size[inputSize] == 50000)
-                    continue;
-                printf("\n%s \n input size: %d \t type: %s\n",
-                        getAlgorithmNameByIndex(algorithmN), size[inputSize], getSortingTypeNameByIndex(inputType));
+//                printf("\n%s \n input size: %d \t type: %s\n",
+//                        getAlgorithmNameByIndex(algorithmN), size[inputSize], getSortingTypeNameByIndex(inputType));
                 int* intArray = getGeneratedArrayOfIntegers(inputType, size[inputSize]); // Generate test data:
                 sortBenchmark(sortingAlgorithms[algorithmN], intArray, size[inputSize]); // Sort Data
             }
         }
+        nextLineOnFile();
+        nextLineOnFile();
+        nextLineOnFile();
+        nextLineOnFile();
     }
-
+    closeFile();
 }
 
 /**

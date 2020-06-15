@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/main.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/main.c.obj"
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/searchAlgorithms.c.obj"
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/selectionSort.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/selectionSort.c.obj"
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/testDataGeneration.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/testDataGeneration.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/main.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/main.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/searchAlgorithms.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/selectionSort.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/selectionSort.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/testDataGeneration.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/testDataGeneration.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

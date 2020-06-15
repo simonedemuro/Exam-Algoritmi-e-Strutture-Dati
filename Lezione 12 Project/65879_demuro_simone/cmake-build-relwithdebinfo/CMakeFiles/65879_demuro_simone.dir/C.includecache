@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/SortEngine/insertionSort.c
+insertionSort.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/SortEngine/insertionSort.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/SortEngine/insertionSort.h
+

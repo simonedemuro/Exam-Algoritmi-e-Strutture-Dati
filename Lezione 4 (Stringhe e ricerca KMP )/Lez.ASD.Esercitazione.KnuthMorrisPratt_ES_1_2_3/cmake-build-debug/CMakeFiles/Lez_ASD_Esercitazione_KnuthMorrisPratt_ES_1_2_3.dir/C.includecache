@@ -6,11 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.c
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 4 (Stringhe e ricerca KMP )/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/main.c
+stdio.h
+-
 searchKMP.h
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 4 (Stringhe e ricerca KMP )/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.h
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 4 (Stringhe e ricerca KMP )/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.c
+searchKMP.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 4 (Stringhe e ricerca KMP )/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 4 (Stringhe e ricerca KMP )/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.h
 stdlib.h
 -
 string.h

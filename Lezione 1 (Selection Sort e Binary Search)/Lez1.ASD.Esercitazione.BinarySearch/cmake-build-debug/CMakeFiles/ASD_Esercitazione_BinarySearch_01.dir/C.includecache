@@ -6,19 +6,29 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.c
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/main.c
+stdio.h
+-
+testDataGeneration.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/testDataGeneration.h
+searchAlgorithms.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.c
 time.h
 -
 searchAlgorithms.h
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.h
 selectionSort.h
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/selectionSort.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/selectionSort.h
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/searchAlgorithms.h
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/selectionSort.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/selectionSort.h
 time.h
 -
 stdio.h
 -
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/testDataGeneration.h
 

@@ -6,6 +6,6 @@
 #define ASD_ESERCITAZIONE_BINARYSEARCH_01_TESTDATAGENERATION_H
 #define MAX_RAND 1000
 
-int* _generateRandomArrayOfIntegers(int size);
+int* generateSortedArrayOfInt(int size);
 
 #endif //ASD_ESERCITAZIONE_BINARYSEARCH_01_TESTDATAGENERATION_H

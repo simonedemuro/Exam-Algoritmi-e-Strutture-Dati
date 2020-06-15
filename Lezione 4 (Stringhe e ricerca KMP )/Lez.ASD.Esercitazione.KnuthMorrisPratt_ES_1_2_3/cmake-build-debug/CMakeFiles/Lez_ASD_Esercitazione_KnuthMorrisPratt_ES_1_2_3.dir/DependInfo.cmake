@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/main.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/main.c.obj"
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/searchKMP.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 4 (Stringhe e ricerca KMP )/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/main.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 4 (Stringhe e ricerca KMP )/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/main.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 4 (Stringhe e ricerca KMP )/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/searchKMP.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 4 (Stringhe e ricerca KMP )/Lez.ASD.Esercitazione.KnuthMorrisPratt_ES_1_2_3/cmake-build-debug/CMakeFiles/Lez_ASD_Esercitazione_KnuthMorrisPratt_ES_1_2_3.dir/searchKMP.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

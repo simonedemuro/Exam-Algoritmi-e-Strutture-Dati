@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees"
+CMAKE_SOURCE_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/flags.make
 
 CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/main.c.obj: CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/flags.make
 CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/main.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\main.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/main.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\main.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\main.c"
 
 CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/main.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\main.c" > CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\main.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\main.c" > CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\main.c.i
 
 CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/main.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\main.c" -o CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\main.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\main.c" -o CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\main.c.s
 
 CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/firstAidHandler.c.obj: CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/flags.make
 CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/firstAidHandler.c.obj: ../firstAidHandler.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/firstAidHandler.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\firstAidHandler.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\firstAidHandler.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/firstAidHandler.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\firstAidHandler.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\firstAidHandler.c"
 
 CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/firstAidHandler.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/firstAidHandler.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\firstAidHandler.c" > CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\firstAidHandler.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\firstAidHandler.c" > CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\firstAidHandler.c.i
 
 CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/firstAidHandler.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/firstAidHandler.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\firstAidHandler.c" -o CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\firstAidHandler.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\firstAidHandler.c" -o CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\firstAidHandler.c.s
 
 # Object files for target Lez7_ASD_Esercitazione_Trees
 Lez7_ASD_Esercitazione_Trees_OBJECTS = \
@@ -96,7 +96,7 @@ Lez7_ASD_Esercitazione_Trees.exe: CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/bu
 Lez7_ASD_Esercitazione_Trees.exe: CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/linklibs.rsp
 Lez7_ASD_Esercitazione_Trees.exe: CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/objects1.rsp
 Lez7_ASD_Esercitazione_Trees.exe: CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Lez7_ASD_Esercitazione_Trees.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Lez7_ASD_Esercitazione_Trees.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/clean:
 .PHONY : CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/clean
 
 CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez7.ASD.Esercitazione.Trees\cmake-build-debug\CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 7 (Trees )\Lez7.ASD.Esercitazione.Trees\cmake-build-debug\CMakeFiles\Lez7_ASD_Esercitazione_Trees.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Lez7_ASD_Esercitazione_Trees.dir/depend
 

@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch"
+CMAKE_SOURCE_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/depend.make
@@ -58,55 +58,55 @@ include CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/flags.make
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/main.c.obj: CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/flags.make
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/main.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\main.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/main.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\main.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\main.c"
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/main.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\main.c" > CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\main.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\main.c" > CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\main.c.i
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/main.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\main.c" -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\main.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\main.c" -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\main.c.s
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/selectionSort.c.obj: CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/flags.make
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/selectionSort.c.obj: ../selectionSort.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/selectionSort.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\selectionSort.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\selectionSort.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/selectionSort.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\selectionSort.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\selectionSort.c"
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/selectionSort.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/selectionSort.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\selectionSort.c" > CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\selectionSort.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\selectionSort.c" > CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\selectionSort.c.i
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/selectionSort.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/selectionSort.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\selectionSort.c" -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\selectionSort.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\selectionSort.c" -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\selectionSort.c.s
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/testDataGeneration.c.obj: CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/flags.make
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/testDataGeneration.c.obj: ../testDataGeneration.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/testDataGeneration.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\testDataGeneration.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\testDataGeneration.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/testDataGeneration.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\testDataGeneration.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\testDataGeneration.c"
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/testDataGeneration.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/testDataGeneration.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\testDataGeneration.c" > CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\testDataGeneration.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\testDataGeneration.c" > CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\testDataGeneration.c.i
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/testDataGeneration.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/testDataGeneration.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\testDataGeneration.c" -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\testDataGeneration.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\testDataGeneration.c" -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\testDataGeneration.c.s
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/searchAlgorithms.c.obj: CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/flags.make
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/searchAlgorithms.c.obj: ../searchAlgorithms.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/searchAlgorithms.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\searchAlgorithms.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\searchAlgorithms.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/searchAlgorithms.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\searchAlgorithms.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\searchAlgorithms.c"
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/searchAlgorithms.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/searchAlgorithms.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\searchAlgorithms.c" > CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\searchAlgorithms.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\searchAlgorithms.c" > CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\searchAlgorithms.c.i
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/searchAlgorithms.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/searchAlgorithms.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\searchAlgorithms.c" -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\searchAlgorithms.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\searchAlgorithms.c" -o CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\searchAlgorithms.c.s
 
 # Object files for target ASD_Esercitazione_BinarySearch_01
 ASD_Esercitazione_BinarySearch_01_OBJECTS = \
@@ -126,7 +126,7 @@ ASD_Esercitazione_BinarySearch_01.exe: CMakeFiles/ASD_Esercitazione_BinarySearch
 ASD_Esercitazione_BinarySearch_01.exe: CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/linklibs.rsp
 ASD_Esercitazione_BinarySearch_01.exe: CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/objects1.rsp
 ASD_Esercitazione_BinarySearch_01.exe: CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable ASD_Esercitazione_BinarySearch_01.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable ASD_Esercitazione_BinarySearch_01.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -139,6 +139,6 @@ CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/clean:
 .PHONY : CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/clean
 
 CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug\CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 1 (Selection Sort e Binary Search)\Lez1.ASD.Esercitazione.BinarySearch\cmake-build-debug\CMakeFiles\ASD_Esercitazione_BinarySearch_01.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ASD_Esercitazione_BinarySearch_01.dir/depend
 

@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez7.ASD.Esercitazione.Trees/firstAidHandler.c
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 7 (Trees )/Lez7.ASD.Esercitazione.Trees/firstAidHandler.c
 firstAidHandler.h
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez7.ASD.Esercitazione.Trees/firstAidHandler.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 7 (Trees )/Lez7.ASD.Esercitazione.Trees/firstAidHandler.h
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez7.ASD.Esercitazione.Trees/firstAidHandler.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 7 (Trees )/Lez7.ASD.Esercitazione.Trees/firstAidHandler.h
 models.h
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez7.ASD.Esercitazione.Trees/models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 7 (Trees )/Lez7.ASD.Esercitazione.Trees/models.h
 stdlib.h
 -
 stdio.h
@@ -22,5 +22,15 @@ stdbool.h
 string.h
 -
 
-C:/Users/SimonD/CLionProjects/Progetti ASD/Lez7.ASD.Esercitazione.Trees/models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 7 (Trees )/Lez7.ASD.Esercitazione.Trees/main.c
+stdio.h
+-
+stdlib.h
+-
+models.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 7 (Trees )/Lez7.ASD.Esercitazione.Trees/models.h
+firstAidHandler.h
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 7 (Trees )/Lez7.ASD.Esercitazione.Trees/firstAidHandler.h
+
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 7 (Trees )/Lez7.ASD.Esercitazione.Trees/models.h
 

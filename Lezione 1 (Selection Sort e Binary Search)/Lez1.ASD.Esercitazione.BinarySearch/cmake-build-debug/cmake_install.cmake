@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch
+# Install script for directory: C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 1 (Selection Sort e Binary Search)/Lez1.ASD.Esercitazione.BinarySearch/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

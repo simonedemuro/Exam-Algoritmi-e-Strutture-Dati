@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.obj"
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/main.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/catalogueHandler.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/main.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 6 (LinkedList)/Lez6.ASD.Esercitazione.LinkedList_ES_Netflix/cmake-build-debug/CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

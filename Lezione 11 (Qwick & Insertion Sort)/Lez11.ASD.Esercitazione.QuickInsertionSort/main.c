@@ -4,8 +4,8 @@
 #include "quickSort.h"
 
 // Please change to feet the desired input size
-#define N_ELEM 10
-#define SWITCH_ALGORITHM_THRESHOLD 3
+#define N_ELEM 15
+#define SWITCH_ALGORITHM_THRESHOLD 4
 
 int main() {
     // TEST SETUP
@@ -14,9 +14,9 @@ int main() {
     printIntegerArray(intArray, N_ELEM);
 
     // SORTING: please uncomment the Algorithm to test
-    insertionSort(intArray,N_ELEM);
+//    insertionSort(intArray,N_ELEM);
 //    quickSort(intArray, 0, N_ELEM);
-//    quickInsertionSort(intArray, 0, N_ELEM-1,SWITCH_ALGORITHM_THRESHOLD);
+    quickInsertionSort(intArray, 0, N_ELEM-1,SWITCH_ALGORITHM_THRESHOLD);
 
     // ASSERT: the array looks sorted
     printf("\nAfret sorting:");

@@ -38,10 +38,11 @@ TVS* prevTVSeries(TVS* t);
 
 //fonde le liste plA e plB in un’unica lista plC (anch’essa passata come parametro). NESSUN nuovo
 // nodo deve essere allocato
-void mergePlayList(PlayList* plA, PlayList* plB, PlayList* plC);
+void mergePlayList(PlayList* playlistA, PlayList* playlistB, PlayList* playlistResult);
 
 // this function provide a way to navigate the playlist
 void playlistScroll(PlayList* pl);
 
+int getNumericAnswerFromUser(int maxOptionAvailable);
 
 #endif //LEZ6_ASD_ESERCITAZIONE_LINKEDLIST_ES_NETFLIX_CATALOGUEHANDLER_H

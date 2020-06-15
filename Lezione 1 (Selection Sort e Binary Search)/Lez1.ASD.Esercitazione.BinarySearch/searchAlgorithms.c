@@ -15,6 +15,18 @@ int linearSearch(int* arrayData, int numToSearchFor, int arraySize){
     return -1; // item not found
 }
 
+int recursiveBinarySearch(int* arrayData, int numToSearchFor, int first, int last){
+    if (first > last)
+        return -1;
+    int half = (first+last)/2;
+
+    if(arrayData[half] == numToSearchFor)
+        return half;
+    else if(arrayData[half] < numToSearchFor)
+        return recursiveBinarySearch(arrayData, numToSearchFor, half+1, last);
+    return recursiveBinarySearch(arrayData, numToSearchFor, first, half-1);
+}
+
 int binaryIterativeSearch(int* arrayData, int numToSearchFor, int arraySize){
     int firstIdx = 0;
     int lastIdx = arraySize - 1;
@@ -32,6 +44,20 @@ int binaryIterativeSearch(int* arrayData, int numToSearchFor, int arraySize){
     return -1;
 }
 
+void debugBinaryRecursiveSearch(int* arrayData, int numToSearchFor, int arraySize){
+    // Init performance measure
+    clock_t start, stop;
+    double elapsedSeconds;
+    start = clock();
+
+    // running actual sort
+    recursiveBinarySearch(arrayData, numToSearchFor, 0, arraySize);
+
+    // stop sort and print milliseconds
+    stop = clock();
+    elapsedSeconds = ((double) (stop - start)) / CLOCKS_PER_SEC;
+    printf("Binary Search Iterative for %d items took: %lf sec\n",arraySize, elapsedSeconds);
+}
 
 void debugBinaryIterativeSearch(int* arrayData, int numToSearchFor, int arraySize){
     // Init performance measure

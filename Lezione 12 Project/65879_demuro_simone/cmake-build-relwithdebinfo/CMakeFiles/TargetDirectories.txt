@@ -1,0 +1,3 @@
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/cmake-build-relwithdebinfo/CMakeFiles/65879_demuro_simone.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/cmake-build-relwithdebinfo/CMakeFiles/edit_cache.dir
+C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 12 Project/65879_demuro_simone/cmake-build-relwithdebinfo/CMakeFiles/rebuild_cache.dir

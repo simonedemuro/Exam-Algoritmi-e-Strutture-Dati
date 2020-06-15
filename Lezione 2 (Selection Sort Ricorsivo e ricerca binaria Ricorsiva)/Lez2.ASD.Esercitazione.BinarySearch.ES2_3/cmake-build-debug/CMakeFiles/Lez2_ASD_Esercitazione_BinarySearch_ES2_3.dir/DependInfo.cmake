@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/BinarySearch.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/BinarySearch.c.obj"
-  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/main.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/main.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/BinarySearch.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/BinarySearch.c.obj"
+  "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/main.c" "C:/Users/SimonD/CLionProjects/Progetti ASD/Lezione 2 (Selection Sort Ricorsivo e ricerca binaria Ricorsiva)/Lez2.ASD.Esercitazione.BinarySearch.ES2_3/cmake-build-debug/CMakeFiles/Lez2_ASD_Esercitazione_BinarySearch_ES2_3.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

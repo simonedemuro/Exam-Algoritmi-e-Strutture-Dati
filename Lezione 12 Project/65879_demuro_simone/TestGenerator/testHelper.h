@@ -16,5 +16,9 @@ const char* getAlgorithmNameByIndex(int algorithmIndex);
 const char* getSortingTypeNameByIndex(int algorithmIndex);
 void conditionallyPrint(int dataSize, int isPrintEnabled, int *data);
 int getNumericAnswerFromUser(int maxOptionAvailable);
+//File
+void nextLineOnFile();
+void openFile();
+void closeFile();
 
 #endif //INC_65879_DEMURO_SIMONE_TESTHELPER_H

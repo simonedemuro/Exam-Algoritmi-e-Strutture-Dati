@@ -13,7 +13,8 @@ void swap(int* a, int*b)
 
 void selectionSort(int* data, int size, int* nCompare, int* nSwap){
     int minIdx = 0;
-    *nCompare = *nSwap = 0;
+    *nCompare = 0;
+    *nSwap = 0;
 
     for (int i = 0; i < size - 1; ++i) {
         minIdx = i;

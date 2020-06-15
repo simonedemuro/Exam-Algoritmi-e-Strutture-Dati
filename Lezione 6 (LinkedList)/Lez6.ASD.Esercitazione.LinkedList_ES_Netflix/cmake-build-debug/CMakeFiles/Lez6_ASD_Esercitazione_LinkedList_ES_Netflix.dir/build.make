@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix"
+CMAKE_SOURCE_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/flags.make
 
 CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.obj: CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/flags.make
 CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\main.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\main.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\main.c"
 
 CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\main.c" > CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\main.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\main.c" > CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\main.c.i
 
 CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/main.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\main.c" -o CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\main.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\main.c" -o CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\main.c.s
 
 CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.obj: CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/flags.make
 CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.obj: ../catalogueHandler.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\catalogueHandler.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\catalogueHandler.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\catalogueHandler.c.obj   -c "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\catalogueHandler.c"
 
 CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\catalogueHandler.c" > CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\catalogueHandler.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\catalogueHandler.c" > CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\catalogueHandler.c.i
 
 CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/catalogueHandler.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\catalogueHandler.c" -o CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\catalogueHandler.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\catalogueHandler.c" -o CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\catalogueHandler.c.s
 
 # Object files for target Lez6_ASD_Esercitazione_LinkedList_ES_Netflix
 Lez6_ASD_Esercitazione_LinkedList_ES_Netflix_OBJECTS = \
@@ -96,7 +96,7 @@ Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.exe: CMakeFiles/Lez6_ASD_Esercitazi
 Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.exe: CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/linklibs.rsp
 Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.exe: CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/objects1.rsp
 Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.exe: CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/clean:
 .PHONY : CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/clean
 
 CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug\CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug" "C:\Users\SimonD\CLionProjects\Progetti ASD\Lezione 6 (LinkedList)\Lez6.ASD.Esercitazione.LinkedList_ES_Netflix\cmake-build-debug\CMakeFiles\Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Lez6_ASD_Esercitazione_LinkedList_ES_Netflix.dir/depend
 
